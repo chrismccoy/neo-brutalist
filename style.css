@@ -1,0 +1,15 @@
+/*
+Theme Name: Neo Brutalist
+Theme URI: https://github.com/chrismccoy/neo-brutalist
+Author: Chris McCoy
+Author URI: https://github.com/chrismccoy
+Description: A high-contrast, Neo-Brutalist WordPress theme featuring strict type-checking, accessible HTML5 semantic markup, and a component-based architecture. Built with Tailwind CSS and PSR-12 coding standards.
+Version: 1.0.0
+Text Domain: neo-brutalist
+Tags: blog, portfolio, one-column, two-columns, accessibility-ready, custom-colors, editor-style, featured-images, footer-widgets, full-width-template, theme-options, translation-ready
+*/
+
+/* 
+ * This theme uses a build process. 
+ * Actual styles are loaded via assets/css/app.css 
+ */

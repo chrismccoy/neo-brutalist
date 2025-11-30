@@ -1,0 +1,11 @@
+{
+  "name": "neo-brutalist",
+  "version": "1.0.0",
+  "description": "A free digital product download theme",
+  "scripts": {
+    "build": "tailwindcss -i ./assets/css/app.scss -o ./assets/css/app.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
